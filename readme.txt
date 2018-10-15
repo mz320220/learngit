@@ -6,5 +6,5 @@ Creating a new branch is quick AND simple.
 
 //test push local to remote
 
-//add 
+//add something new 
 
